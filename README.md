@@ -1,6 +1,6 @@
 # Hi, I'm NTM Nathan 👋
 
-I am a developer and occasional YouTuber who likes creating awesome stuff. Based in NSW Australia, I've been programming for about 2-4 years now and I love it. Outside of doing that kind of stuff I am either gaming or travelling.
+I am a developer and occasional YouTuber who likes creating awesome stuff. Based in NSW Australia, I've been programming for about 3 years now and I love it. Outside of doing that kind of stuff I am either gaming or travelling.
 
 # Facts
 - Currently 19 years old and studying game development and graphic design for education
