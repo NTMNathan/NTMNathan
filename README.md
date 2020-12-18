@@ -34,6 +34,7 @@ I am a developer and occasional YouTuber who likes creating awesome stuff. Based
 # Friends
 - **[@HYDROX](https://github.com/inhydrox)**
 - **[@NeutronicMC](https://github.com/neutronicmc)**
+- **[@RyansHDs](https://github.com/ryanshds)**
 - **[@Jazz](https://github.com/JassM13)**
 - **[@bremea](https://github.com/bremea)**
 
