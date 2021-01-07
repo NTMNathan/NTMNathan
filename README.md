@@ -19,16 +19,12 @@ I am a developer and occasional YouTuber who likes creating awesome stuff. Based
 
 ### Small projects
 - [DenoBot](https://github.com/ntm-development/DenoBot) (OUTDATED!)
+- New Discord Bot.
 - Character Generator Form for Windows
 - JDA4 Bot (WIP)
-- C# Bot (Soon)
-- Discord Bot List (Soon)
-- Discord Server List (Soon)
 - Weeby API (Soon)
 - Discord Lookup (Soon)
-
 - NTMCalculator for Windows and macOS (WIP)
-- TypeScript Bot (Soon)
 - NTM MC Plugins Suite (Soon)
 
 # Friends
