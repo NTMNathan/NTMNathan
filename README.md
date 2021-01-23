@@ -13,6 +13,7 @@ I am a developer and occasional YouTuber who likes creating awesome stuff. Based
 # Main Projects
 - [Nate Bot](https://natebot.xyz/)
 - [Hive Tools with Paroxity](https://hive.paroxity.net/)
+- [MC Tools](https://mctools.ntmnathan.com/)
 - [Server Tags Bot](https://github.com/ntm-development/servertagsbot)
 - [Ichigo API](https://ichigo.ntmnathan.com/)
 - [Hive Gen](https://hivegen.ntmnathan.com/)
