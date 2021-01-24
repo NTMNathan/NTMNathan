@@ -12,20 +12,20 @@ I am a developer and occasional YouTuber who likes creating awesome stuff. Based
 
 # Main Projects
 - [Nate Bot](https://natebot.xyz/)
-- [Hive Tools with Paroxity](https://hive.paroxity.net/)
 - [MC Tools](https://mctools.ntmnathan.com/)
 - [Server Tags Bot](https://github.com/ntm-development/servertagsbot)
 - [Ichigo API](https://ichigo.ntmnathan.com/)
 - [Hive Gen](https://hivegen.ntmnathan.com/)
 
 ### Small projects
+- [Team Trees Lookup](https://github.com/ntm-development/teamtrees-site)
 - [DenoBot](https://github.com/ntm-development/DenoBot) (OUTDATED!)
-- New Discord Bot.
+- New Discord Bot. (Soon)
 - Character Generator Form for Windows
 - JDA4 Bot (WIP)
 - Weeby API (Soon)
 - Discord Lookup (Soon)
-- NTMCalculator for Windows and macOS (WIP)
+- Calculator for Windows and macOS (WIP)
 - NTM MC Plugins Suite (Soon)
 
 # Friends
