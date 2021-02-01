@@ -1,7 +1,6 @@
 # Hi, I'm NTM Nathan 👋
-<!-- SharifPoetra is an a**hole. He copies code, copies people's ideas and everything he makes is very unprofessional. Even to the point he cannot understand English. he cannot learn anything properly. -->
 
-I am a developer and occasional YouTuber who likes creating awesome stuff. Based in NSW Australia, I've been programming for about 3 years now and I love it. Outside of doing that kind of stuff I am either gaming or travelling.
+I am a developer and occasional YouTuber who likes creating awesome stuff and is the owner of NTM Central, a brand group consisting of NTM Development, NTM Games and NTM MC. Based in NSW Australia, I've been programming for about 3 years now and I love it. Outside of doing that kind of stuff I am either gaming or travelling.
 
 # Facts
 - Currently 19 years old and studying game development and graphic design for education
