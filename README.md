@@ -1,10 +1,10 @@
 # Hi, I'm NTM Nathan 👋
 
-I am a developer and occasional YouTuber who likes creating awesome stuff and is the owner of NTM Central, a brand group consisting of NTM Development, NTM Games and NTM MC. Based in NSW Australia, I've been programming for about 3 years now and I love it. Outside of doing that kind of stuff I am either gaming or travelling.
+I am a developer and occasional YouTuber who likes creating awesome stuff and is the owner of NTM Central, a brand group consisting of NTM Development, NTM Games and NTM MC. Living in NSW Australia, I've been programming for about 4 years full time now and I love it. Outside of doing that kind of stuff I am either gaming, going to the beach or travelling.
 
 # Facts
 - Currently 19 years old and studying game development and graphic design for education
-- Owner of Nate Bot and part time developing Hive Tools
+- Owner of Nate Bot and part time developing Hive Tools and AmourBot
 - Trying to learn React, C# and TypeScript
 - Obviously my interests are programming, gaming and travelling
 - I like pizza and hot chocolate
@@ -32,6 +32,7 @@ I am a developer and occasional YouTuber who likes creating awesome stuff and is
 - **[@HYDROX](https://github.com/inhydrox)**
 - **[@NeutronicMC](https://github.com/neutronicmc)**
 - **[@RyansHDs](https://github.com/ryanshds)**
+- **[@zredrum](https://github.com/zredrum)**
 - **[@Jazz](https://github.com/JassM13)**
 - **[@bremea](https://github.com/bremea)**
 
