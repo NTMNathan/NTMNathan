@@ -39,7 +39,7 @@ I am a developer and occasional YouTuber who likes creating awesome stuff and is
 # Quick Links
 - **[Discord](https://discord.com/invite/G2rb53z)**
 - **[Twitter](https://twitter.com/ntm_nathan)**
-- **[Instagram](https://twitter.com/heyimnateeeee)**
+- **[Instagram](https://www.instagram.com/heyimnateeeee/)**
 - **[YouTube Channel](https://www.youtube.com/user/nathantominecraft)**
 
 ![NTM Nathan's github stats](https://github-readme-stats.vercel.app/api?username=ntmnathan&theme=algolia&show_icons=true)
