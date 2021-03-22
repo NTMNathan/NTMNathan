@@ -29,10 +29,10 @@ I am a developer and occasional YouTuber who likes creating awesome stuff and is
 - NTM MC Plugins Suite (Soon)
 
 # Friends
-- **[@HYDROX](https://github.com/inhydrox)**
+- **[@InHydrox](https://github.com/inhydrox)**
+- **[@RyansHDs](https://github.com/ryanshds)**
 - **[@Bea](https://github.com/zredrum)**
-- **[@NeutronicMC](https://github.com/neutronicmc)**
-- **[@RyansHDs](https://github.com/ryanshds)*
+- **[@Neutronic](https://github.com/neutronicmc)**
 - **[@Jazz](https://github.com/JassM13)**
 - **[@bremea](https://github.com/bremea)**
 
