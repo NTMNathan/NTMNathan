@@ -33,9 +33,9 @@ Coming Soon...
 
 # Friends
 - **[@HYDROX](https://github.com/inhydrox)**
+- **[@Bea](https://github.com/zredrum)**
 - **[@NeutronicMC](https://github.com/neutronicmc)**
-- **[@RyansHDs](https://github.com/ryanshds)**
-- **[@zredrum](https://github.com/zredrum)**
+- **[@RyansHDs](https://github.com/ryanshds)*
 - **[@Jazz](https://github.com/JassM13)**
 - **[@bremea](https://github.com/bremea)**
 
