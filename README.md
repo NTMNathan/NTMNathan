@@ -14,7 +14,7 @@ I am a developer and occasional YouTuber who likes creating awesome stuff and is
 - [Nate Bot](https://natebot.xyz/)
 - [MC Tools](https://mctools.ntmnathan.com/)
 - [Server Tags Bot](https://github.com/ntm-development/servertagsbot)
-- [Weeby API](https://weebyapi.ntmnathan.com/)
+- [Weeby API](https://weebyapi.xyz/)
 - [Hive Gen](https://hivegen.ntmnathan.com/)
 
 ### Small projects
