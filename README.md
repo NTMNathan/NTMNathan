@@ -3,19 +3,19 @@
 I am a developer and occasional YouTuber who likes creating awesome stuff and is the owner of NTM Central, a brand group consisting of NTM Development, NTM Games and NTM MC. Living in NSW Australia, I've been programming for about 4 years full time now and I love it. Outside of doing that kind of stuff I am either gaming, going to the beach or travelling.
 
 # Facts
-- Currently 19 years old and studying game development and graphic design for education
-- Owner of Nate Bot and part time developing Hive Tools and AmourBot
-- Trying to learn React, C# and TypeScript
-- Obviously my interests are programming, gaming and travelling
+- Currently 20 years old. Studying game development and graphic design for education
+- Developing Nate Bot and Weeby API full time
+- Trying to learn C# and TypeScript
+- My interests are programming, gaming and travelling
+- I've been to many Asian Countries, United Kingdom, New Zealand and Northern Australia.
 - I like pizza and hot chocolate
-- I play Minecraft quite a lot in my free time. I have a SMP Server for friends.
+- I play Minecraft quite a lot in my free time. Sometimes VALORANT, GTA 5, Among Us and others... 
 
 # Main Projects
 - [Nate Bot](https://natebot.xyz/)
+- [Weeby API](https://weebyapi.xyz/)
 - [MC Tools](https://mctools.ntmnathan.com/)
 - [Server Tags Bot](https://github.com/ntm-development/servertagsbot)
-- [Weeby API](https://weebyapi.xyz/)
-- [Hive Gen](https://hivegen.ntmnathan.com/)
 
 ### Small projects
 - [Team Trees Lookup](https://github.com/ntm-development/teamtrees-site)
@@ -28,17 +28,8 @@ I am a developer and occasional YouTuber who likes creating awesome stuff and is
 - Calculator for Windows and macOS (WIP)
 - NTM MC Plugins Suite (Soon)
 
-# Friends
-- **[@InHydrox](https://github.com/inhydrox)**
-- **[@RyansHDs](https://github.com/ryanshds)**
-- **[@Neutronic](https://github.com/neutronicmc)**
-- **[@Jazz](https://github.com/JassM13)**
-- **[@bremea](https://github.com/bremea)**
-
 # Quick Links
 - **[Discord](https://discord.com/invite/G2rb53z)**
-- **[Twitter](https://twitter.com/ntm_nathan)**
-- **[Instagram](https://www.instagram.com/heyimnateeeee/)**
 - **[YouTube Channel](https://www.youtube.com/user/nathantominecraft)**
 
 ![NTM Nathan's github stats](https://github-readme-stats.vercel.app/api?username=ntmnathan&theme=algolia&show_icons=true)
