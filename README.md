@@ -5,6 +5,7 @@ I am a developer and occasional YouTuber who likes creating awesome stuff and is
 # Facts
 - Currently 20 years old. Studying game development and graphic design for education
 - Developing Nate Bot and Weeby API full time
+- Working for @paroxityteam part time on Hive Tools
 - Trying to learn C# and TypeScript
 - My interests are programming, gaming and travelling
 - I've been to many Asian Countries, United Kingdom, New Zealand and Northern Australia.
