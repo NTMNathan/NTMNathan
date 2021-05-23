@@ -6,28 +6,26 @@ I am a developer and occasional YouTuber who likes creating awesome stuff and is
 - Currently 20 years old. Studying game development and graphic design for education
 - Developing Nate Bot and Weeby API full time
 - Working for [@Paroxity](https://github.com/Paroxity/) part time on Hive Tools
-- Trying to learn C# and TypeScript
+- Trying to learn C#, TypeScript and Rust
 - My interests are programming, gaming and travelling
 - I've been to many Asian Countries, United Kingdom, New Zealand and Northern Australia.
 - I like pizza and hot chocolate
-- I play Minecraft quite a lot in my free time. Sometimes VALORANT, GTA 5, Among Us and others... 
+- I play Minecraft quite a lot in my free time. Sometimes GTA 5, Among Us and others... 
 
-# Main Projects
+# My Work
+## Main Projects
 - [Nate Bot](https://natebot.xyz/)
 - [Weeby API](https://weebyapi.xyz/)
-- [MC Tools](https://mctools.ntmnathan.com/)
-- [Server Tags Bot](https://github.com/ntm-development/servertagsbot)
+- [MC Bedrock Tools](https://mcpetools.xyz/)
 
-### Small projects
+## Small projects
+- [Server Tags](https://github.com/ntm-development/servertagsbot)
+- [Weeby-JS](https://github.com/ntm-development/weeby-js)
+
+## Open Source 
+- [Discord Dashboard Example](https://github.com/ntmnathan/discord-dashboard)
 - [Team Trees Lookup](https://github.com/ntm-development/teamtrees-site)
-- [DenoBot](https://github.com/ntm-development/DenoBot) (OUTDATED!)
-- New Discord Bot. (Soon)
-- Character Generator Form for Windows
-- JDA4 Bot (WIP)
-- Weeby API (Soon)
-- Discord Lookup (Soon)
-- Calculator for Windows and macOS (WIP)
-- NTM MC Plugins Suite (Soon)
+- [DenoBot](https://github.com/ntm-development/DenoBot)
 
 # Quick Links
 - **[Discord](https://discord.com/invite/G2rb53z)**
