@@ -3,7 +3,7 @@
 I am a developer and occasional YouTuber who likes creating awesome stuff and is the owner of NTM Central, a brand group consisting of NTM Development, NTM Games and NTM MC. Living in NSW Australia, I've been programming for about 4 years full time now and I love it. Outside of doing that kind of stuff I am either gaming, going to the beach or travelling.
 
 # Facts
-- Currently 20 years old. Studying game development and graphic design for education
+- Currently 20 years old. Studying game development and graphic design for education.
 - Developing Nate Bot and Weeby API full time
 - Working for [@Paroxity](https://github.com/Paroxity/) part time on Hive Tools
 - Trying to learn C#, TypeScript and Rust
