@@ -1,6 +1,6 @@
 # Hi, I'm Nate! 👋
 
-I am a developer and occasional YouTuber who likes creating awesome stuff and is the owner of NTM Central, a brand group consisting of NTM Development, NTM Games and NTM MC. Living in NSW Australia, I've been programming for about 4 years full time now and I love it. Outside of doing that kind of stuff I am either gaming, going to the beach or travelling.
+I am a developer and occasional YouTuber who likes creating awesome stuff and is the owner of NTM Central, a brand group consisting of NTM Development, NTM Games and NTM MC. Living in Australia, I've been programming for about 4 years full time now and I love it. Outside of doing that kind of stuff I am either gaming, going to the beach or travelling.
 
 # Facts
 - Currently 20 years old. Studying game development and graphic design for education.
