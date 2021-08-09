@@ -13,19 +13,17 @@ I am a developer and occasional YouTuber who likes creating awesome stuff and is
 - I play Minecraft quite a lot in my free time. Sometimes GTA 5, Among Us and others... 
 
 # My Work
-## Main Projects
+## Projects
 - [Nate Bot](https://natebot.xyz/)
 - [Weeby API](https://weebyapi.xyz/)
-- [MC Bedrock Tools](https://mcpetools.xyz/)
+- [MC Tools](https://mcpetools.xyz/)
 
-## Small projects
-- [Server Tags](https://github.com/ntm-development/servertagsbot)
+## Wrappers
 - [Weeby-JS](https://github.com/ntm-development/weeby-js)
+- [WeebyJ](https://github.com/ntm-development/weebyj)
 
 ## Open Source 
 - [Discord Dashboard Example](https://github.com/ntmnathan/discord-dashboard)
-- [Team Trees Lookup](https://github.com/ntm-development/teamtrees-site)
-- [DenoBot](https://github.com/ntm-development/DenoBot)
 
 # Quick Links
 - **[Discord](https://discord.com/invite/G2rb53z)**
