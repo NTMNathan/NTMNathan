@@ -24,6 +24,7 @@ I am a developer and occasional YouTuber who likes creating awesome stuff and is
 
 ## Open Source 
 - [Discord Dashboard Example](https://github.com/ntmnathan/discord-dashboard)
+- [Discord.js Command Handler Example](https://github.com/ntmnathan/djs-command-handler)
 
 # Quick Links
 - **[Discord](https://discord.com/invite/G2rb53z)**
