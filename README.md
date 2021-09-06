@@ -20,7 +20,7 @@ I am a developer and occasional YouTuber who likes creating awesome stuff and is
 
 ## Wrappers
 - [Weeby-JS](https://github.com/ntm-development/weeby-js)
-- [WeebyJ](https://github.com/ntm-development/weebyj)
+- [Weeby4J](https://github.com/ntm-development/weeby4j)
 
 ## Open Source 
 - [Discord Dashboard Example](https://github.com/ntmnathan/discord-dashboard)
