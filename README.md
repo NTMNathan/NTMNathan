@@ -6,6 +6,7 @@ I am a developer and occasional YouTuber who likes creating awesome stuff and is
 - Currently 20 years old. Studying game development and graphic design for education.
 - Developing Nate Bot and Weeby API full time
 - Working for [@Paroxity](https://github.com/Paroxity/) part time on Hive Tools
+- Working for @holo-development(https://github.com/holobot-development/) part time on Holo Bot
 - Trying to learn C#, TypeScript and Rust
 - My interests are programming, gaming and travelling
 - I've been to many Asian Countries, United Kingdom, New Zealand and Northern Australia.
