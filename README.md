@@ -1,6 +1,6 @@
 # Hi, I'm Nate! 👋
 
-I own and oversee NTM Central which is a brand consisting of divisions like NTM Development, NTM Games and NTM MC. Living in Australia, I've been programming for about 5 years full time now and I love it. Outside of that, I am either working, gaming, going to the beach or travelling.
+I own and oversee NTM Central which is a brand consisting of divisions like NTM Development, NTM Games and NTM MC. Living in Australia, I've been programming for about 6 years full time now and I love it. Outside of that, I am either working, gaming, going to the beach or travelling.
 
 # Facts
 - Currently 20 years old. Studying game development and graphic design for education.
