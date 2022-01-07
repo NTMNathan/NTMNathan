@@ -3,10 +3,9 @@
 I own and oversee NTM Central which is a brand consisting of divisions like NTM Development, NTM Games and NTM MC. Living in Australia, I've been programming for about 6 years full time now and I love it. Outside of that, I am either working, gaming, going to the beach or travelling.
 
 # Facts
-- Currently 20 years old. Studying game development and graphic design for education.
+- Currently 20 years old.
 - Developing Nate Bot and Weeby API full time
-- Working for [@Paroxity](https://github.com/Paroxity/) part time on Hive Tools
-- Working for [@holo-development](https://github.com/holobot-development/) part time on Holo Bot
+- Assisting [@Paroxity](https://github.com/Paroxity/) [@holo-development](https://github.com/holobot-development/) [@wisebot-discord](https://github.com/WiseBot-Discord) on their projects.
 - Trying to learn PHP, C#, TypeScript and Rust
 - My interests are programming, gaming and travelling
 - I've been to many Asian Countries, United Kingdom, New Zealand and Northern Australia.
@@ -26,7 +25,7 @@ I own and oversee NTM Central which is a brand consisting of divisions like NTM 
 [<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&color=3e76b2&logo=eslint&logoColor=white" />](https://eslint.org/) 
 [<img alt="Git" src="https://img.shields.io/badge/-Git-f05033?style=flat-square&color=3e76b2&logo=git&logoColor=white" />](https://git-scm.com) [<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-212121?style=flat-square&color=3e76b2&logo=Ubuntu&logoColor=white" />](https://ubuntu.com/) <img alt="Nginx" src="https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=flat-square&color=3e76b2&logo=Nginx&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&color=3e76b2&logo=MySQL&logoColor=white"/>
 
-# My Work
+# Work 
 ## Projects
 - [Nate Bot](https://natebot.xyz/)
 - [Weeby API](https://weebyapi.xyz/)
@@ -34,7 +33,6 @@ I own and oversee NTM Central which is a brand consisting of divisions like NTM 
 
 ## Wrappers
 - [Weeby-JS](https://github.com/ntm-development/weeby-js)
-- [Weeby4J](https://github.com/ntm-development/weeby4j)
 
 ## Open Source 
 - [Discord Dashboard Example](https://github.com/ntmnathan/discord-dashboard)
@@ -42,6 +40,7 @@ I own and oversee NTM Central which is a brand consisting of divisions like NTM 
 
 # Quick Links
 - **[Discord](https://discord.com/invite/G2rb53z)**
-- **[YouTube Channel](https://www.youtube.com/user/nathantominecraft)**
+- **[Website](https://ntmnathan.com)**
+- **[YouTube](https://youtube.com/user/Nathantominecraft)**
 
 ![NTM Nathan's github stats](https://github-readme-stats.vercel.app/api?username=ntmnathan&theme=algolia&show_icons=true)
