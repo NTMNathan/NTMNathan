@@ -5,7 +5,6 @@ I own and oversee NTM Central which is a brand consisting of divisions like NTM 
 # Facts
 - Currently 20 years old.
 - Developing Nate Bot and Weeby API full time
-- Assisting [@Paroxity](https://github.com/Paroxity/) [@holo-development](https://github.com/holobot-development/) [@wisebot-discord](https://github.com/WiseBot-Discord) on their projects.
 - Trying to learn PHP, C#, TypeScript and Rust
 - My interests are programming, gaming and travelling
 - I've been to many Asian Countries, United Kingdom, New Zealand and Northern Australia.
