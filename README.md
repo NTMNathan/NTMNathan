@@ -3,7 +3,7 @@
 I own and oversee NTM Central which is a brand consisting of divisions like NTM Development, NTM Games and NTM MC. Living in Australia, I've been programming for about 6 years full time now and I love it. Outside of that, I am either working, gaming, going to the beach or travelling.
 
 # Facts
-- Currently 20 years old.
+- Currently 21 years old.
 - Developing Nate Bot and Weeby API full time
 - Trying to learn PHP, C#, TypeScript and Rust
 - My interests are programming, gaming and travelling
