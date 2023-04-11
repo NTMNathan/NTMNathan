@@ -1,13 +1,12 @@
 # Hi, I'm Nate! 👋
 
-I am the founder and owner of NTM Central since October 2012 which is a brand consisting of divisions like NTM Development and NTM Games. Living in Australia, I've been programming for about 7 years full time now and I love it. Outside of that, I am either working, gaming, going to the beach or travelling.
+I am the founder and owner of NTM Central since October 2012 which is a brand consisting of divisions like NTM Development and NTM Games. I've been programming for about 7 years full time now and I love it. Outside of that, I am either working, gaming, going to the beach or travelling.
 
 # Facts
 - Currently 21 years old.
 - Developing Nate Bot, Weeby API and Nova full time
 - Trying to learn PHP, C#, TypeScript and Rust
 - My interests are programming, gaming and travelling
-- I've been to many Asian Countries, United Kingdom, New Zealand and Northern Australia.
 - I like pizza and hot chocolate
 - I play Minecraft quite a lot in my free time. Sometimes GTA 5, Among Us and others... 
 
