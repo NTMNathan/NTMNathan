@@ -28,7 +28,6 @@ I am the founder and owner of NTM Central since October 2012 which is a brand co
 - [Nate Bot](https://natebot.xyz/)
 - [Weeby API](https://weebyapi.xyz/)
 - [MC Tools](https://mcpetools.xyz/)
-- Nova K-Pop Bot
 
 ## Wrappers
 - [Weeby-JS](https://github.com/ntm-development/weeby-js)
