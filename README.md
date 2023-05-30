@@ -4,7 +4,7 @@ I am the founder and owner of NTM Central since October 2012 which is a brand co
 
 # Facts
 - Currently 21 years old.
-- Developing Nate Bot, Weeby API and Nova full time
+- Developing Nate Bot, Weeby API full time
 - Trying to learn PHP, C#, TypeScript and Rust
 - My interests are programming, gaming and travelling
 - I like pizza and hot chocolate
