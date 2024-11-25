@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👋 About Me
+Hey! I'm <b>Nate</b>, a Gamer, Programmer and Designer. I also love playing games!
+
+## Projects
+- [Nate Bot](https://natebot.xyz/)
+- [Weeby API](https://weebyapi.xyz/)
+
+### [Join my Discord Server!](https://discord.com/invite/G2rb53z)
 
 <!--
 **NTMNathan/NTMNathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
